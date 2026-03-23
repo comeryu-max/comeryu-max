@@ -42,6 +42,10 @@ Network is, fundamentally, a structure of time.
 
 <p align="center">
 👉（🚃—gap—🚃—gap—🚃—gap—🚃）  
+
+## 🚂 Packet Train · Serialization Delay · ACK Clock
+
+![Packet Train Diagram](https://raw.githubusercontent.com/comeryu-max/from-LR-to-visible-network/main/packet-train-v2.png)
 <br/>
 <sub>Packet Train · Serialization Delay · ACK Clock · cwnd</sub>
 </p>
