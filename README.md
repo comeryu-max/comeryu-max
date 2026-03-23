@@ -41,7 +41,7 @@ Network is, fundamentally, a structure of time.
 ## 🚄 Packet Train · Time Structure
 
 <p align="center">
-👉（）  
+👉（🚃—gap—🚃—gap—🚃—gap—🚃）  
 <br/>
 <sub>Packet Train · Serialization Delay · ACK Clock · cwnd</sub>
 </p>
