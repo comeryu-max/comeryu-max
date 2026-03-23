@@ -110,3 +110,23 @@ Network is, fundamentally, a structure of time.
 <p align="center">
 🌐 Built on packets, time, and persistence.
 </p>
+
+## ⚡ Engineering Motto
+
+<p align="center">
+
+| 🇺🇸 Principle | 🇨🇳 工程格言 |
+|--------------|-------------|
+| **Make the invisible visible** | **使无形者现形** |
+| **Measure the abstract** | **令抽象者具象** |
+| **Trust the packet** | **报文乃真相之源** |
+| **Respect the time** | **时序乃运行之本** |
+
+</p>
+
+## 👤 About
+
+25+ years in Network Performance Monitoring  
+Focused on TCP behavior, packet-level analysis, and observability
+
+---
