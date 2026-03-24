@@ -41,11 +41,11 @@ Network is, fundamentally, a structure of time.
 ## 🚄 Packet Train · Time Structure
 
 <p align="center">
-👉（🚃—gap—🚃—gap—🚃—gap—🚃）  
+👉（🚂—gap—🚂—gap—🚂—gap—🚂）  
 
 ## 🚂 Packet Train · Serialization Delay · ACK Clock
 
-![Packet Train Diagram](https://raw.githubusercontent.com/comeryu-max/from-LR-to-visible-network/main/packet-train-v2.png)
+![Engineering-Motto](https://github.com/comeryu-max/comeryu-max/blob/main/Engineering-Motto-v1.png)
 <br/>
 <sub>Packet Train · Serialization Delay · ACK Clock · cwnd</sub>
 </p>
