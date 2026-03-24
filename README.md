@@ -124,7 +124,7 @@ Network is, fundamentally, a structure of time.
 
 </p>
 
-![Engineering-Motto](https://github.com/comeryu-max/comeryu-max/blob/main/Engineering-Motto.png)
+![Engineering-Motto](https://github.com/comeryu-max/comeryu-max/blob/main/packet-train-v4.png)
 <br/>
 
 ## 👤 About
