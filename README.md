@@ -111,16 +111,16 @@ Network is, fundamentally, a structure of time.
 🌐 Built on packets, time, and persistence.
 </p>
 
-## ⚡ Engineering Motto
+## ⚡ Engineering Approach
 
-<p align="center">
+| TCP Behavior | Engineering Interpretation |
+|-------------|--------------------------|
+| Observe every packet — make the flow visible | 使无形者现形 |
+| Measure every interval — turn time into structure | 令抽象者具象 |
+| Trust what is observed — not what is assumed | 报文乃真相之源 |
+| Respect timing and limits — let the system breathe | 时序乃运行之本 |
 
-| 🇺🇸 Principle | 🇨🇳 工程格言 |
-|--------------|-------------|
-| **Make the invisible visible** | **使无形者现形** |
-| **Measure the abstract** | **令抽象者具象** |
-| **Trust the packet** | **报文乃真相之源** |
-| **Respect the time** | **时序乃运行之本** |
+> Not a motto — just how I try to work.
 
 </p>
 
