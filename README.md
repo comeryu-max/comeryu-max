@@ -45,7 +45,7 @@ Network is, fundamentally, a structure of time.
 
 ## 🚂 Packet Train · Serialization Delay · ACK Clock
 
-![Engineering-Motto](https://github.com/comeryu-max/comeryu-max/blob/main/Engineering-Motto-v1.png)
+![Engineering-Motto](https://github.com/comeryu-max/comeryu-max/blob/main/packet-train-v3.png)
 <br/>
 <sub>Packet Train · Serialization Delay · ACK Clock · cwnd</sub>
 </p>
