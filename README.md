@@ -128,6 +128,9 @@ TCP的复杂，不是因为世界正常，而是因为世界经常不正常。
 | Trust what is observed — not what is assumed | 报文乃真相之源 |
 | Respect timing and limits — let the system breathe | 时序乃运行之本 |
 
+TCP is complex not because the world is orderly,but because it is chaotic—
+and we study it to make that chaos observable.
+
 > Not a motto — just how I try to work.
 
 </p>
