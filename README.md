@@ -12,10 +12,9 @@ Network is, fundamentally, a structure of time.
 
 ---
 
-We do not study TCP because TCP is the future.  
-We study TCP because it is the last system where causality is still fully observable and provable.  
+Our reason for studying TCP isn't its relevance to the future; it's the fact that TCP is the last system where causality is still fully observable and provable.  
 我们研究 TCP，不是因为它不会消失，
-而是因为它是最后一个“因果仍然可被证明”的系统。  
+而是因为它是最后一个因果关系仍能被完整观测与证明的系统。  
 TCP的复杂，不是因为世界正常，而是因为世界经常不正常。  
 
 ---
