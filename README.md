@@ -13,9 +13,11 @@ Network is, fundamentally, a structure of time.
 ---
 
 Our reason for studying TCP isn't its relevance to the future; it's the fact that TCP is the last system where causality is still fully observable and provable.  
+The source code of TCP lies not in its lines of code, but in timing.  
 我们研究 TCP，不是因为它不会消失，
 而是因为它是最后一个因果关系仍能被完整观测与证明的系统。  
 TCP的复杂，不是因为世界正常，而是因为世界经常不正常。  
+TCP 的源码不在代码里，而在时间里  
 
 ---
 
