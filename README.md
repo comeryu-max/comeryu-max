@@ -25,7 +25,7 @@ TCP 的源码不在代码里，而在时间里
 
 | 🇨🇳 中文 | 🇺🇸 English |
 |--------|------------|
-| 谨以此文，致敬与我并肩二十八载的所有同行好友。 | Dedicated to all the engineers who have walked alongside me for nearly three decades. |
+| 谨以此文，致敬与我并肩二十八年的所有同行好友。 | Dedicated to all the engineers who have walked alongside me for nearly three decades. |
 | 因为——只有真正走进过系统内部，陪着它在混乱与秩序之间来回穿梭过的人，才会在某个瞬间突然感觉到： | Because only those who have truly stepped inside a system, and lived with it between chaos and order, will suddenly realize: |
 | ——原来工程不仅是理性，它也有浪漫。 | Engineering is not only logic — it has romance. |
 
